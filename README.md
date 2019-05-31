@@ -20,7 +20,7 @@ Buenos días
 
 `backstics`
 
-Link [google](www.google.com)
+Link [google](http://www.google.com)
 
 
 ## Sección final
