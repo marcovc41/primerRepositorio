@@ -24,8 +24,13 @@ Link [google](http://www.google.com)
 
 Link en mi repositorio: [blanco](img/blanco.txt)
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+Código:
+```
+int cnt=0;
+for(int x=0;x<10;x++){
+   cnt++;
+}
+```
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
