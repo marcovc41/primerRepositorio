@@ -25,7 +25,7 @@ Link [google](http://www.google.com)
 Link en mi repositorio: [blanco](img/blanco.txt)
 
 Código:
-```
+```C
 int cnt=0;
 for(int x=0;x<10;x++){
    cnt++;
