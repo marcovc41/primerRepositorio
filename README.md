@@ -45,4 +45,4 @@ Lista
 - [ ] no se ha hecho
 - [ ] esta tampoco
 
-@Sarai73 Quíen vea esto me debe unos tacos veganos
+@Sarai73 Quíen vea esto me debe unos tacos veganos.
