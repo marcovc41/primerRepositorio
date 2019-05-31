@@ -30,7 +30,9 @@ Adios
 Lista
 
 *me
+
 *llamo
+
 *marco
 
 1. es
@@ -38,4 +40,5 @@ Lista
 3. primer
 
 -archivo
+
 -readme
