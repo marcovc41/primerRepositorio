@@ -38,3 +38,9 @@ Lista
 3. primer
    - archivo
      - readme
+
+
+### Tareas
+- [x] la que ya se hizo
+- [ ] no se ha hecho
+- [ ] esta tampoco
