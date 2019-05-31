@@ -22,8 +22,20 @@ Buenos días
 
 Link [google](http://www.google.com)
 
-Link en mi repositorio: [main](img/blanco.txt)
-
+Link en mi repositorio: [blanco](img/blanco.txt)
 
 ## Sección final
 Adios
+
+Lista
+
+*me
+*llamo
+*marco
+
+1. es
+2. mi
+3. primer
+
+-archivo
+-readme
