@@ -39,7 +39,7 @@ for(int x=0;x<10;x++){
 }
 ```
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Nyantocat](https://octodex.github.com/images/nyantocat.gif)
 
 ## Sección final
 Adios
