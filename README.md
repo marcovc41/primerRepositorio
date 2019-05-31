@@ -14,6 +14,13 @@ Citandome:
 
 >¿Qué tal la chamba?
 
+Tabla:
+
+Primera columna | Segunda columna
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 
 ## Sección 2
 Buenos días
