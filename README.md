@@ -39,10 +39,6 @@ for(int x=0;x<10;x++){
 }
 ```
 
-![Image of Nyantocat](https://octodex.github.com/images/nyantocat.gif)
-
-
-![Image of Spidertocat](https://octodex.github.com/images/spidertocat.png)
 
 ## Sección final
 Adios
@@ -69,3 +65,8 @@ Lista
 
 :octocat:
 
+
+![Image of Nyantocat](https://octodex.github.com/images/nyantocat.gif)
+
+
+![Image of Spidertocat](https://octodex.github.com/images/spidertocat.png)
