@@ -30,15 +30,11 @@ Adios
 Lista
 
 *me
-
 *llamo
-
 *marco
 
 1. es
 2. mi
 3. primer
-
--archivo
-
--readme
+   -archivo
+    -readme
