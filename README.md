@@ -22,6 +22,8 @@ Buenos días
 
 Link [google](http://www.google.com)
 
+Link en mi repositorio: [main](img/blanco.txt)
+
 
 ## Sección final
 Adios
